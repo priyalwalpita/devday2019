@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tuktuk</folder>
+	<filename>tuktuk80.jpg</filename>
+	<path>C:\Users\PriyalWalpita\Documents\tuktuk\tuktuk80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tuk tuk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>48</ymin>
+			<xmax>170</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>
